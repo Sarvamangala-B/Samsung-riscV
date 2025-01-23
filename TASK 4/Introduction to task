@@ -1,0 +1,24 @@
+Objective:
+To perform a functional simulation of a RISC-V Core using the provided Verilog netlist and testbench.
+
+Steps to Complete the Task:
+
+1.create a directory:
+By using mkdir file_name create a file.
+Then by using touch netlist_file.v command create a verilog file to download the given verilog netlist. Similarly create a testbench file to download the test bench code.
+
+2.Download Files:
+Obtain the Verilog netlist from the given resource (RISC-V Core Verilog Netlist).
+Download the testbench from the specified resource (Testbench for RISC-V Core).
+
+3.Set Up Simulation Environment:
+Ensure you have a simulation tool installed, such as iverilog (for simulation) and gtkwave (for waveform visualization).
+Load the Verilog netlist and testbench into the chosen simulation tool.
+
+4.Run Functional Simulation:
+Simulate the RISC-V Core using the testbench.
+Observe and verify the core's output signals for functional correctness.
+
+5.Capture Waveforms:
+Generate waveform files for the simulated design (e.g., .vcd files).
+Use tools like gtkwave to capture and save waveform snapshots corresponding to the executed instructions or signals.
