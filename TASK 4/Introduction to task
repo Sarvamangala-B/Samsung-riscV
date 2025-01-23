@@ -22,3 +22,5 @@ Observe and verify the core's output signals for functional correctness.
 5.Capture Waveforms:
 Generate waveform files for the simulated design (e.g., .vcd files).
 Use tools like gtkwave to capture and save waveform snapshots corresponding to the executed instructions or signals.
+
+
