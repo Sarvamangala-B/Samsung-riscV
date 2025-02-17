@@ -6,8 +6,8 @@ This program is initiated by Samsung Semiconductor India Research in collaborati
 - Name : Sarvamangala B 
 - College : RV Institute of Technology and Management
 - Email : sarvamangala3182004@gmail.com
-- Github :
-- LinkedIn : 
+- Github : https://github.com/Sarvamangala-B
+- LinkedIn : www.linkedin.com/in/sarvamangala-b-97162a249
 
 ### Task 1 - 
 The task involves setting up a GitHub repository named samsung-riscv, installing the RISC-V toolchain, and performing hands-on exercises based on provided lab videos. The goal of this task is to familiarize participants with the RISC-V architecture, its toolchain, and the workflow for executing C-based and RISC-V-based programs.
