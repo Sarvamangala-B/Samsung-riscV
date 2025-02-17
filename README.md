@@ -5,7 +5,7 @@ This program is initiated by Samsung Semiconductor India Research in collaborati
 ## Basic Details 
 - Name : Sarvamangala B 
 - College : RV Institute of Technology and Management
--Email : sarvamangala3182004@gmail.com
+- Email : sarvamangala3182004@gmail.com
 - Github :
 - LinkedIn : 
 
